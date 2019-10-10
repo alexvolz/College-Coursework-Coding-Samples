@@ -1,0 +1,11 @@
+﻿  sphereInBox1.cpp
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(59): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(75): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(75): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(93): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(93): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(94): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alex\documents\alex's documents\sru\y5 sru\graphics\experimenter\experimentersource\chapter11\sphereinbox1\sphereinbox1.cpp(94): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SphereInBox1.vcxproj -> C:\Users\Alex\Documents\Alex's Documents\SRU\Y5 SRU\Graphics\Experimenter\ExperimenterSource\Chapter11\SphereInBox1\Debug\SphereInBox1.exe
+  SphereInBox1.vcxproj -> C:\Users\Alex\Documents\Alex's Documents\SRU\Y5 SRU\Graphics\Experimenter\ExperimenterSource\Chapter11\SphereInBox1\Debug\SphereInBox1.pdb (Full PDB)

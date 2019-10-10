@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SphereInBox1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program4.cpp
+c:\users\alex\downloads\temp\program 4\program4\program4.cpp(30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\program 4\program4\program4.cpp(40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\program 4\program4\program4.cpp(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\program 4\program4\program4.cpp(109): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\program 4\program4\program4.cpp(119): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\program 4\program4\program4.cpp(130): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Program4.vcxproj -> C:\Users\Alex\Downloads\Temp\Program 4\Program4\Debug\Program4.exe
+  Program4.vcxproj -> C:\Users\Alex\Downloads\Temp\Program 4\Program4\Debug\Program4.pdb (Full PDB)

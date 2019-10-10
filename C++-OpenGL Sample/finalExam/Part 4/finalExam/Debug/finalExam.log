@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Program4.vcxproj, SphereInBox1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  scene0.cpp
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(102): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(132): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(132): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(136): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(136): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(192): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(242): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(243): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(250): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alex\downloads\temp\finalexam\part 4\finalexam\scene0.cpp(253): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  finalExam.vcxproj -> C:\Users\Alex\Downloads\Temp\finalExam\Part 4\finalExam\Debug\finalExam.exe
+  finalExam.vcxproj -> C:\Users\Alex\Downloads\Temp\finalExam\Part 4\finalExam\Debug\finalExam.pdb (Full PDB)
