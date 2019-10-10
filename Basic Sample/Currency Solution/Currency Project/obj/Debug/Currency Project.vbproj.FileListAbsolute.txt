@@ -1,0 +1,24 @@
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.exe.config
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.exe
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.pdb
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.xml
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency_Project.frmMain.resources
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency_Project.Resources.resources
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.vbproj.GenerateResource.Cache
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.exe
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.xml
+E:\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.pdb
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.exe.config
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.exe
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.xml
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.pdb
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.exe
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.pdb
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\bin\Debug\Currency Project.xml
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency_Project.frmMain.resources
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency_Project.Resources.resources
+C:\Users\Alex\Documents\Alex's Documents\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Alex's Documents\Lackawanna\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.exe
+C:\Users\Owner\Documents\Alex's Documents\Lackawanna\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.xml
+C:\Users\Owner\Documents\Alex's Documents\Lackawanna\Y2 S1 Lackawanna Fall 2015\Visual Basic Programming\ClearlyVB2012\Chap10\Currency Solution\Currency Project\obj\Debug\Currency Project.pdb
